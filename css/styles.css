@@ -196,7 +196,7 @@ img {
   clip: rect(0 0 0 0);
   overflow: hidden;
 }
-.container section-two {
+.container-two-icons {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -206,7 +206,6 @@ img {
   border: 1px solid #8e8f99;
   margin-bottom: 8px;
 }
-
 .two-link {
   font-size: 20px;
   font-weight: 500;
