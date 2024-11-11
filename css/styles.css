@@ -374,14 +374,13 @@ img {
 .container-footer {
   display: flex;
   align-items: baseline;
-  margin-right: 120px;
 }
 .container-footer-logo {
   margin-right: 120px;
 }
 
 .footer-logo {
-  display: inline-block;
+  display: flex;
   margin-bottom: 16px;
 }
 .link-footer {
@@ -406,7 +405,6 @@ img {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #f4f4fd;
-  max-width: 264px;
 }
 .footer-social-links {
   display: inline-block;
